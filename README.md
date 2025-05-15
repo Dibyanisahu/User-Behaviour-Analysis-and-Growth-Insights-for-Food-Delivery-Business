@@ -2,6 +2,10 @@
 
 This project dives deep into user-level behavioral data for **Wolt**, a food delivery platform operating across Europe. The goal is to uncover key business insights and growth levers through exploratory data analysis and visualization.
 
+<p align="center">
+  <img src="/Users/divi/workspace/GitHub/Wolt_internship case study/photocard_courier_flexible_hours.png" alt="Banner" width="700">
+</p>
+
 ---
 
 ## 🏢 Business Context
@@ -61,15 +65,3 @@ Wolt connects customers with local restaurants and stores via mobile and web pla
 ---
 
 
-## 📁 Project Structure
-
-├── data/
-│ └── dataset.csv
-├── notebooks/
-│ └── wolt_analysis.ipynb
-├── visuals/
-│ ├── user_funnel_chart.png
-│ ├── device_revenue_chart.png
-│ └── repeat_rate_by_country.png
-├── Wolt_User_Insights_Presentation.pptx
-└── README.md
