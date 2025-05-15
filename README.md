@@ -2,7 +2,7 @@
 
 This project dives deep into user-level behavioral data for **Wolt**, a food delivery platform operating across Europe. The goal is to uncover key business insights and growth levers through exploratory data analysis and visualization.
 
-
+![image_alt](https://github.com/Dibyanisahu/User-Behaviour-Analysis-and-Growth-Insights-for-Food-Delivery-Business/blob/7ea7b3f630520b26332696ef56218657d17cbc9c/photocard_courier_flexible_hours.webp)
 ---
 
 ## 🏢 Business Context
