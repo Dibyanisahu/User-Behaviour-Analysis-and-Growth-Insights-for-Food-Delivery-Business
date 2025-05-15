@@ -2,9 +2,6 @@
 
 This project dives deep into user-level behavioral data for **Wolt**, a food delivery platform operating across Europe. The goal is to uncover key business insights and growth levers through exploratory data analysis and visualization.
 
-<p align="center">
-  <img src="/Users/divi/workspace/GitHub/Wolt_internship case study/photocard_courier_flexible_hours.png" alt="Banner" width="700">
-</p>
 
 ---
 
