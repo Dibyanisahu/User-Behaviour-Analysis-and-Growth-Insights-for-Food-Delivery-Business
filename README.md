@@ -46,7 +46,7 @@ Wolt connects customers with local restaurants and stores via mobile and web pla
 | **Activation**    | 45% of users never placed an order. Payment method validity strongly influences activation rate. |
 | **Retention**     | 61.7% of users who ordered within 3 days of signup made repeat purchases — but even late converters (>10 days) showed strong retention (65.3%). |
 | **Revenue**       | Denmark leads in revenue and activation. iOS users base is the highest around 9700 but Web users spend more per order. So it is recommended to invest in       
-                      user acquisition and retention for iOS users and offer loyalty programs to web users to increase the average spend on orders.|
+user acquisition and retention for iOS users and offer loyalty programs to web users to increase the average spend on orders.|
 | **Behavior**      | Lunch and dinner dominate purchase patterns. Most orders happen midday or early evening. |
 
 ---
